@@ -1,2 +1,2 @@
-# OSA-CV-Python
-Open Source Algorithms on Computer Vision in Python for SLAM
+# OSA-CV-SLAM-Python
+Open Source Algorithms on Computer Vision for SLAM in Python

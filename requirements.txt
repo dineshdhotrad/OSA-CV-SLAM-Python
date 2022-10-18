@@ -1,0 +1,9 @@
+numpy
+pillow
+imageio
+opencv-python
+opencv-contrib-python
+open3d
+scikit-learn
+scikit-image
+pyquadranion
